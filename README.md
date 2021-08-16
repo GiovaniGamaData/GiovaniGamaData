@@ -1,1 +1,1 @@
-- 👋 Olá, meu nome é Giovani Gama e este é meu Git Hub para estudo de Data Science!
+- 👋 Olá, meu nome é Giovani Gama e este é meu Git Hub para estudo!
